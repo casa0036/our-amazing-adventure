@@ -1,0 +1,3 @@
+## You Stay Hidden and Listen Closer
+
+You remain still, pressing your back against the tree, listening intently. The men seem to be talking about something dangerous, and you catch a few more words that make you uneasy...
