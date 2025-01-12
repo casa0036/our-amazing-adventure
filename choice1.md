@@ -1,0 +1,3 @@
+## You Step Out and Confront Them
+
+You take a deep breath, step out from behind the bush, and walk toward the men. They turn quickly, startled by your sudden appearance. One of them reaches for a weapon...
