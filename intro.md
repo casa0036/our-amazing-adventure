@@ -6,3 +6,5 @@ You hear a concerning noise coming from your car as your driving along a dark an
 [You decide the head forward](./head_forward.md)
 or
 [You head to the left and face the wall of trees.](head_to_the_left.md)
+or
+[You head to the right and face the wall of trees.](./head_to_the_right.md)
