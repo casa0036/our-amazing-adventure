@@ -1,0 +1,3 @@
+The murmur of voices sends a shiver down your spine, but there's something compelling about it—like a pull you can't ignore. You hesitate for a moment, the safety of your car still in your thoughts. But the urge to know what's ahead, to uncover the source of those voices, is stronger.
+
+You decide to follow them, moving cautiously, each step deliberate to avoid making noise. The thick underbrush is difficult to navigate, but you push through, your senses sharpening. The voices grow clearer, and though they remain soft, you can make out fragments of conversation. They're speaking in low tones, but you catch the occasional word. Something about...
