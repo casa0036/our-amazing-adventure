@@ -7,4 +7,6 @@ You hear a concerning noise coming from your car as your driving along a dark an
 or
 [You head to the left and face the wall of trees.](head_to_the_left.md)
 or
-[You head to the right and see what looks to be bridge.](./head_to_the_right.md)
+[You head to the right and see what looks to be bridge](./head_to_the_right.md) 
+or
+[You decide to stay in the car.](./stay_in_the_car.md)
